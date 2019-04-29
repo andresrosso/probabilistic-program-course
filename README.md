@@ -1,4 +1,4 @@
-# Probabilistic Programming Course
+### Probabilistic Programming Course
 
 * Sesion 1: Introduction
 

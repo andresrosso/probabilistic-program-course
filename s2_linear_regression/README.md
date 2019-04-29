@@ -1,4 +1,4 @@
-This is the list of resources for the second sesion
+### This is the list of resources for the second sesion
 
 
 * Presentation

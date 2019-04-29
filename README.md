@@ -1,3 +1,7 @@
-# probabilistic-program-course
+### Probabilistic Programming Course
 
-* ML Probabilitic Perspective https://drive.google.com/file/d/1sB4Vp5k_tvMOuzMO39FHteiUFcq4c_8Y/view?usp=sharing
+* Sesion 1: Introduction
+
+* Sesion 2: Bayesian Linear Regression
+
+* Sesion 3: Hierarchical Linear Regression

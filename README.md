@@ -4,4 +4,4 @@
 
 * Sesion 2: Bayesian Linear Regression
 
-* Sesion 3: Hierarchical Linear Regression
+* Sesion 3: Introduction to Monte Carlo Methods

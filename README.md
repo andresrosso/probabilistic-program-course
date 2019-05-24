@@ -6,6 +6,18 @@
 
 * Sesion 3: Introduction to Monte Carlo Methods
 
+* Sesion 4: Metropolis Hastings and Gibbs Sampling (demonstration why works)  --> Melissa 
+
+* Sesion 5: Hamiltonian Monte Carlo   --> Andrés
+
+* Sesion 6: Variational Inference     --> Juan
+ 
+* Sesion 7: Bayesian newral network   --> Melissa
+
+* Sesion 8: Variational Autoencoder   --> Andrés
+
+ 
+Use: PyMC3 and tensorflow
 
 ### Resources
 

@@ -1,4 +1,4 @@
-### This is the list of resources for the second sesion
+### Hamiltonian Montecarlo Resources
 
 
 * Presentation

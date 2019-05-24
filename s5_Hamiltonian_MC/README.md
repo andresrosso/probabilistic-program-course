@@ -3,30 +3,20 @@
 
 * Presentation
 
-  * https://docs.google.com/presentation/d/1SNOcPvAhcjrxoahnJ925mxyhgLaCZRo6PziqDSa61e4/edit?usp=sharing
+  * https://docs.google.com/presentation/d/1ZDsTh6mkEPZrSLguCfu0KpasjT3-kCLQ6s7heYiX0zE/edit?usp=sharing
 
 * Notebook
 
-  * https://github.com/andresrosso/probabilistic-program-course/blob/master/linear_regression/01_linear_regression.ipynb
+  * https://github.com/andresrosso/probabilistic-program-course/blob/master/s5_Hamiltonian_MC/samplig_methods.ipynb
   
-  * The original notebook and presentation is here
-    * https://emtiyaz.github.io/teaching/ds3_2018/ds3.html
-    
-  * Support math paper
-    * https://brunaw.com/phd/bayes-regression/report.pdf
 
-* Intuitive explanation 
+* References
 
-  * https://stats.stackexchange.com/questions/163034/bayesian-logit-model-intuitive-explanation
+  * https://arxiv.org/pdf/1206.1901.pdf
+  
+  * https://twiecki.io/blog/2015/11/10/mcmc-sampling/
+  
+  * http://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/
+  
+  * http://elevanth.org/blog/2018/01/29/algebra-and-missingness/
 
-* Ejemplo con regresión lineal 
-
-  * https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7
-
-* TensorFlow Probability
-
-  * https://medium.com/tensorflow/an-introduction-to-probabilistic-programming-now-available-in-tensorflow-probability-6dcc003ca29e
-
-* Linear regresion with Edward
-
-  * http://edwardlib.org/tutorials/supervised-regression

@@ -12,7 +12,7 @@
 
 * Sesion 6: Variational Inference     --> Juan
  
-* Sesion 7: Bayesian newral network   --> Melissa
+* Sesion 7: Bayesian neural network   --> Melissa
 
 * Sesion 8: Variational Autoencoder   --> Andrés
 

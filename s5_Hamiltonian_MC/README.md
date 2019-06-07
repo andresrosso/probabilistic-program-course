@@ -19,4 +19,9 @@
   * http://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/
   
   * http://elevanth.org/blog/2018/01/29/algebra-and-missingness/
+  * Nice simulations on HMC: http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html
+  * A conceptual introduction to hamiltonian MonteCarlo: https://arxiv.org/abs/1701.02434 Talks in youtube: https://www.youtube.com/watch?v=pHsuIaPbNbY
+  * MCMC Using Hamiltonian Dynamics: https://www.cs.toronto.edu/~radford/ftp/ham-mcmc.pdf
+  * Hamiltonian MonteCarlo from Scratch: https://colindcarroll.com/2019/04/11/hamiltonian-monte-carlo-from-scratch/
+
 
